@@ -45,6 +45,9 @@ POST https://www.googleapis.com/oauth2/v4/token
   "approval_prompt" : "force"
 }
 ```
+ 
+- "approval_prompt" : "force" を入れることが重要！！
+ 
 **リフレッシュトークンは、必ず保存しておく**
 
 ### 5. リフレッシュトークンから **アクセストークン** を取得する
