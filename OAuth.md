@@ -59,3 +59,8 @@ POST https://www.googleapis.com/oauth2/v4/token
   "approval_prompt" : "force"
 }
 ```
+
+## 参考サイト
+- [OAuth 2.0 を使用してGoogle API にアクセスする方法](https://blog.shinonome.io/google-api/)
+- [OAuth2.0を使って認証を通す](https://www.y-hakopro.com/entry/google_oauth_api)
+- [Not receiving Google OAuth refresh token](https://stackoverflow.com/questions/10827920/not-receiving-google-oauth-refresh-token)
