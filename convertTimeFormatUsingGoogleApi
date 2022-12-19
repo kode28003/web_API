@@ -1,5 +1,5 @@
 String? returnIsoTimeFormat(DateTime? value) {
   final isoTimeFormat = value!.toUtc().toIso8601String();
-  final googleApiTime = isoTimeFormat.replaceAll("Z", "+09:00");
+  final googleApiTime = isoTimeFormat.replaceAll("Z", "+09:00");//+09:00は、TOKYOのタイムゾーン
   return googleApiTime;
 }
