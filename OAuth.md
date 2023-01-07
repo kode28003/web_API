@@ -28,7 +28,7 @@ scope=**[必要なスコープ]**
 
 ### 3.  2 の認可コード@@@@@@をUriにデコードする。
 
-      [Uriのデコード - サイト ](https://tech-unlimited.com/urlencode.html)
+[Uriのデコード - サイト ](https://tech-unlimited.com/urlencode.html)
 
 
 ### 4. **リフレッシュトークン**の取得
